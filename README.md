@@ -5,8 +5,6 @@ Camunda BPMN 2.0 models for **two** of the three given topics:
 1. **Student Project Approval and Allocation System**
 2. **Logistics and Shipment Exception Management**
 
-Assignment 3 (Loan Origination) is not submitted.
-
 Open the `.bpmn` files in [Camunda Modeler](https://camunda.com/download/modeler/). They target **Camunda Platform 7** (executable BPMN 2.0).
 
 ## Repository layout
