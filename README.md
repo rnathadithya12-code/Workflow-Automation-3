@@ -33,6 +33,4 @@ Open the `.bpmn` files in [Camunda Modeler](https://camunda.com/download/modeler
 
 Every other path is an exception. Those are listed in the Failure Path Registers and drawn in the same diagrams.
 
-## What to submit to the teacher
 
-Submit this GitHub repository URL. The teacher can clone the repo and open the two `.bpmn` files in Camunda Modeler.
